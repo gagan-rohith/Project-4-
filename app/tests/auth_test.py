@@ -1,4 +1,4 @@
-"""This test the homepage"""
+"""This is to test the homepage"""
 
 def test_request_main_menu_links(client):
     """This makes the index page"""
